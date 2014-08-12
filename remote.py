@@ -34,7 +34,7 @@ def get_playlist():
 
 def get_artists():
 	data = xbmc.AudioLibrary.GetArtists()
-	return data['result']['artists']
+	return sorted(data['result']['artists'], key=lambda k: k['label'])
 
 def get_artist_name(id):
 	for artist in get_artists():
