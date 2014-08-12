@@ -6,6 +6,7 @@ A music remote control for xbmc
 At the momment it's a bit rough, but does work.
 
 Dependencies:
+
 *python-bottle
 *python-paste
 *xbmcjson (python)
