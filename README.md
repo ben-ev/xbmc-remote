@@ -7,11 +7,11 @@ At the momment it's a bit rough, but does work.
 
 Dependencies:
 
-*python-bottle
-*python-paste
-*xbmcjson (python)
-*xbmc
-*It also assumes the Radio addon is installed in xbmc with the radio stations you want selected as 'My Stations' (http://wiki.xbmc.org/index.php?title=Add-on:Radio)
+* python-bottle
+* python-paste
+* xbmcjson (python)
+* xbmc
+* It also assumes the Radio addon is installed in xbmc with the radio stations you want selected as 'My Stations' (http://wiki.xbmc.org/index.php?title=Add-on:Radio)
 
 to run it, put the files in a directory on the xbmc computer, then run 'python remote.py'
 
