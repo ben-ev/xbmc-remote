@@ -19,4 +19,9 @@ By default, it will start a web server on port 8000 and server up the remote con
 
 Note -- it doesn't have to be on the computer hosting xbmc (you can change this), but if it's not, downloading files won't work.
 
+TODO
+====
 
+* Make the HTML look nicer
+* Improve the install process
+* Handle addons better (don't just assume Radio is installed)
